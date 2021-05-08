@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinSimpleAboutUs</string>
+
+    <string name="title">About Us</string>
+    <string name="icon">Icon</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus asperiores dicta eius eum excepturi id iste repellat repellendus sunt vitae. Ad autem doloremque, esse exercitationem nihil omnis quisquam ratione velit?</string>
+</resources>
